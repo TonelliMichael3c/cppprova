@@ -18,7 +18,11 @@ cin >> matrice[r][c];
 
 
 if (matrice[r][c]==3){
-    cout << "il numero 3 è presente"<< endl; }
+    cout << "il numero 3 è presente"<< endl;
+    cout << "il numero 3 si trova nella riga" << r << "e nella colonna" << c <<endl;
+    
+    
+     }
 
 
 else {
